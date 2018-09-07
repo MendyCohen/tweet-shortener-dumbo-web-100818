@@ -1,4 +1,3 @@
-require 'pry'
 def dictionary
   word_dictionary = {
     "to" => "2",
